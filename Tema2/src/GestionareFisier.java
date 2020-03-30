@@ -38,7 +38,6 @@ public class GestionareFisier  {
 	
 	public String CitesteDinFisier(File fisier)
 	{
-		System.out.println("asdfg");
 		String aux = null;
 		try {
 			Scanner input = new Scanner(fisier);
